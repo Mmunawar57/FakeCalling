@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Chamada de vídeo falsa para pregar peças nos amigos</string>
+
+    <string name="hello_blank_fragment">Olá, fragmento em branco</string>
+    <string name="this_action_may_contain_ad">Essa ação pode conter anúncios</string>
+    <string name="your_prankster_s_playground">O seu campo de diversão para pregar peças!</string>
+    <string name="customize_call_visuals_effortlessly">Personalize a aparência das chamadas facilmente.</string>
+    <string name="add_names_numbers_and_profiles">Adicione nomes, números e perfis.</string>
+    <string name="set_call_durations_for_authenticity">Defina a duração da chamada para autenticidade.</string>
+    <string name="prank_with_both_sound_and_sight">Pregue peças com som e imagem.</string>
+    <string name="continue_btn">Continuar</string>
+    <string name="fake_calling">Chamada falsa</string>
+    <string name="prank">Pregar peça</string>
+    <string name="call_preview_screen">Tela de visualização da chamada</string>
+    <string name="ads_will_display_here">Os anúncios serão exibidos aqui.</string>
+    <string name="are_you_sure_you_want_to_exit">Tem certeza de que deseja sair?</string>
+    <string name="no">Não</string>
+    <string name="yes">Sim</string>
+    <string name="james_smith">James Smith</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">Faça uma chamada de voz agora</string>
+    <string name="set_time">Definir horário</string>
+    <string name="select_theme">Selecionar tema</string>
+    <string name="home">Início</string>
+    <string name="setting">Configuração</string>
+    <string name="call_screens">Telas de chamada</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacidade e Política]]></string>
+    <string name="more_settings">Mais configurações</string>
+    <string name="rate_us">Avalie-nos</string>
+    <string name="more_apps">Mais apps</string>
+    <string name="mute">Mudo</string>
+    <string name="hold">Aguardar</string>
+    <string name="add_call">Adicionar chamada</string>
+    <string name="contacts">Contatos</string>
+    <string name="note">Observação</string>
+    <string name="how_to_use">Como usar</string>
+    <string name="languages">Idiomas</string>
+    <string name="start_fake_call">Iniciar Chamada Falsa</string>
+    <string name="features">Recursos</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">Anote o número de telefone, nome e defina a foto de perfil da galeria.</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">Aqui, há duas opções: uma para definir a duração da chamada e a segunda para definir o tema.</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">Aqui, você teria que selecionar a duração da chamada para a brincadeira.</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">Basta clicar no tema que você deseja na tela da chamada.</string>
+
+</resources>

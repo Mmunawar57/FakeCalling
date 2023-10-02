@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966571295239",
+    "project_id": "fake-prank-call-friends",
+    "storage_bucket": "fake-prank-call-friends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966571295239:android:a9f0d05ba7a66d78b8a0a2",
+        "android_client_info": {
+          "package_name": "com.bitz.fake.video.call.prank.friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966571295239-31ufd4r9k547kos2i7rp8nem0coega65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO2O3m6TjAWUblN_MmZqJXKR_vzVZSKd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966571295239-31ufd4r9k547kos2i7rp8nem0coega65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

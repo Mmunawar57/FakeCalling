@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grayish_gradient"
+    tools:context=".activity.ThemeselectionActivity">
+
+    <LinearLayout
+        android:id="@+id/layout_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="50dp"
+       app:layout_constraintBottom_toTopOf="@+id/scrollView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/backButton"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/back_btn" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="55dp"
+            android:padding="5dp"
+            android:fontFamily="@font/montserat"
+            android:text="@string/call_preview_screen"
+            android:textColor="@color/white"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/layout_top"
+        app:layout_constraintBottom_toBottomOf="parent">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/screen1"
+                style="@style/Widget.Material3.CardView.Elevated"
+                android:layout_width="150dp"
+                android:layout_height="260dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                app:cardElevation="0dp"
+                app:layout_constraintBottom_toTopOf="@id/theme_nativeadd"
+                app:layout_constraintEnd_toStartOf="@+id/screen2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/group_555" />
+
+                <ImageView
+                    android:id="@+id/select1"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:src="@drawable/select_screen"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/screen2"
+                style="@style/Widget.Material3.CardView.Elevated"
+                android:layout_width="150dp"
+                android:layout_height="260dp"
+                android:layout_marginRight="20dp"
+                app:cardElevation="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/screen1"
+                app:layout_constraintBottom_toBottomOf="@id/screen1"
+                app:layout_constraintTop_toTopOf="@+id/screen1">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/group_554" />
+
+                <ImageView
+                    android:id="@+id/select2"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:src="@drawable/select_screen"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <FrameLayout
+                android:id="@+id/theme_nativeadd"
+                android:layout_width="0dp"
+                android:layout_height="250dp"
+                android:layout_marginVertical="15dp"
+                android:layout_marginHorizontal="30dp"
+                android:backgroundTint="#0C1723"
+                android:background="@drawable/frame_custom_layout_ads"
+                android:visibility="visible"
+                app:cardElevation="0dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/screen1" >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ads_will_display_here"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"/>
+            </FrameLayout>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/screen3"
+                style="@style/Widget.Material3.CardView.Elevated"
+                android:layout_width="150dp"
+                android:layout_height="260dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                app:cardElevation="0dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@+id/screen2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/theme_nativeadd">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/theme_3" />
+
+                <ImageView
+                    android:id="@+id/select3"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:src="@drawable/select_screen"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
+
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/screen4"
+                style="@style/Widget.Material3.CardView.Elevated"
+                android:layout_width="150dp"
+                android:layout_height="260dp"
+                android:layout_marginRight="20dp"
+                app:cardElevation="0dp"
+                app:layout_constraintBottom_toBottomOf="@id/screen3"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toEndOf="@id/screen3"
+                app:layout_constraintTop_toTopOf="@+id/screen3">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/theme_4" />
+
+                <ImageView
+                    android:id="@+id/select4"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="end"
+                    android:src="@drawable/select_screen"
+                    android:visibility="gone" />
+            </com.google.android.material.card.MaterialCardView>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

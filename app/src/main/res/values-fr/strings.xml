@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Faux appel vidéo pour taquiner les amis</string>
+
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="this_action_may_contain_ad">Cette action peut contenir une publicité</string>
+    <string name="your_prankster_s_playground">Laire de jeu de votre farceur !</string>
+    <string name="customize_call_visuals_effortlessly">Personnalisez facilement les visuels de lappel.</string>
+    <string name="add_names_numbers_and_profiles">Ajoutez des noms, des numéros et des profils.</string>
+    <string name="set_call_durations_for_authenticity">Définissez la durée de lappel pour plus dauthenticité.</string>
+    <string name="prank_with_both_sound_and_sight">Faites des farces avec le son et limage.</string>
+    <string name="continue_btn">Continuer</string>
+    <string name="fake_calling">Appel fictif</string>
+    <string name="prank">Farce</string>
+    <string name="call_preview_screen">Écran de prévisualisation de lappel</string>
+    <string name="ads_will_display_here">Les publicités safficheront ici.</string>
+    <string name="are_you_sure_you_want_to_exit">Êtes-vous sûr de vouloir quitter ?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="james_smith">James Smith</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">Faites un appel vocal maintenant</string>
+    <string name="set_time">Définir lheure</string>
+    <string name="select_theme">Sélectionnez le thème</string>
+    <string name="home">Accueil</string>
+    <string name="setting">Paramètres</string>
+    <string name="call_screens">Écrans dappel</string>
+    <string name="privacy_amp_policy"><![CDATA[Vie privée et politique]]></string>
+    <string name="more_settings">Autres réglages</string>
+    <string name="rate_us">Notez-nous</string>
+    <string name="more_apps">Plus dapplications</string>
+    <string name="mute">Muet</string>
+    <string name="hold">Maintenir</string>
+    <string name="add_call">Ajouter un appel</string>
+    <string name="contacts">Contacts</string>
+    <string name="note">Note</string>
+    <string name="how_to_use">Comment utiliser</string>
+    <string name="languages">Langues</string>
+    <string name="start_fake_call">Démarrer un appel fictif</string>
+    <string name="features">Caractéristiques</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">Notez le numéro de téléphone, le nom et définissez la photo de profil à partir de la galerie.</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">Voici, deux options, lune pour définir la durée de lappel et la deuxième pour choisir le thème.</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">Ici, vous devrez sélectionner la durée de lappel farce.</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">Cliquez simplement sur le thème que vous souhaitez sur lécran dappel.</string>
+
+</resources>

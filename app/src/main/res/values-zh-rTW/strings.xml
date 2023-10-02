@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">假视频通话 搞笑骗朋友</string>
+
+    <string name="hello_blank_fragment">你好，空白片段</string>
+    <string name="this_action_may_contain_ad">此操作可能包含广告</string>
+    <string name="your_prankster_s_playground">你的恶作剧天地！</string>
+    <string name="customize_call_visuals_effortlessly">轻松定制通话视觉效果。</string>
+    <string name="add_names_numbers_and_profiles">添加姓名、号码和资料。</string>
+    <string name="set_call_durations_for_authenticity">设置通话持续时间以保真。</string>
+    <string name="prank_with_both_sound_and_sight">玩笑，声音和视觉一起。</string>
+    <string name="continue_btn">继续</string>
+    <string name="fake_calling">假通话</string>
+    <string name="prank">玩笑</string>
+    <string name="call_preview_screen">通话预览屏幕</string>
+    <string name="ads_will_display_here">广告将显示在此处。</string>
+    <string name="are_you_sure_you_want_to_exit">确定要退出吗？</string>
+    <string name="no">不</string>
+    <string name="yes">是</string>
+    <string name="james_smith">詹姆斯·史密斯</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">现在进行语音通话</string>
+    <string name="set_time">设置时间</string>
+    <string name="select_theme">选择主题</string>
+    <string name="home">主页</string>
+    <string name="setting">设置</string>
+    <string name="call_screens">通话屏幕</string>
+    <string name="privacy_amp_policy"><![CDATA[隐私与政策]]></string>
+    <string name="more_settings">更多设置</string>
+    <string name="rate_us">给我们评分</string>
+    <string name="more_apps">更多应用</string>
+    <string name="mute">静音</string>
+    <string name="hold">保持</string>
+    <string name="add_call">添加通话</string>
+    <string name="contacts">联系人</string>
+    <string name="note">备注</string>
+    <string name="how_to_use">如何使用</string>
+    <string name="languages">语言</string>
+    <string name="start_fake_call">开始模拟通话</string>
+    <string name="features">特点</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">从相册写下电话号码、姓名并设置头像。</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">这里有两个选项，一个用于设置通话时长，另一个用于设置主题。</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">在这里，您需要选择恶作剧通话的时长。</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">只需点击您想要在通话屏幕上使用的主题。</string>
+
+</resources>

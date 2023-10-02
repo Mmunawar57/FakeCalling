@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/grayish_gradient"
+    android:layout_gravity="bottom"
+    android:layout_height="wrap_content">
+
+    <FrameLayout
+        android:id="@+id/exit_nativeAd"
+        android:layout_width="0dp"
+        android:layout_height="250dp"
+        android:visibility="visible"
+        android:layout_marginTop="10dp"
+       android:layout_marginHorizontal="20dp"
+        android:backgroundTint="#0C1723"
+        android:background="@drawable/frame_custom_layout_ads"
+        app:layout_constraintBottom_toTopOf="@+id/exitText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ads_will_display_here"
+            android:textColor="@color/white"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/exitText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/light_grey"
+        android:fontFamily="@font/montserat"
+        android:gravity="center"
+        android:layout_marginVertical="30dp"
+
+
+        android:text="@string/are_you_sure_you_want_to_exit"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/exitControles"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/exit_nativeAd" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/exitControles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/exitText"
+       >
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/exitNo"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/white"
+            android:elevation="6dp"
+            android:text="@string/no"
+            android:textColor="#A39D9D"
+            app:layout_constraintEnd_toStartOf="@id/exitYes"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/exitYes"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/light_grey"
+            android:elevation="6dp"
+            android:text="@string/yes"
+            android:textColor="@color/white"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/exitNo"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

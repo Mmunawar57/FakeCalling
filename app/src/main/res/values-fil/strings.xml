@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pambansang Video Call - Lolokohin ang mga Kaibigan</string>
+
+    <string name="hello_blank_fragment">Kumusta walang laman na fragment</string>
+    <string name="this_action_may_contain_ad">Maaaring may laman na ad ang aksyong ito</string>
+    <string name="your_prankster_s_playground">Ang Playground ng Iyong Lolokohin!</string>
+    <string name="customize_call_visuals_effortlessly">I-customize ang visuals ng tawag nang madali.</string>
+    <string name="add_names_numbers_and_profiles">Magdagdag ng mga pangalan, numero, at profile.</string>
+    <string name="set_call_durations_for_authenticity">Itakda ang tagal ng tawag para sa katotohanan.</string>
+    <string name="prank_with_both_sound_and_sight">Lolokohin na may tunog at pangtingin.</string>
+    <string name="continue_btn">Magpatuloy</string>
+    <string name="fake_calling">Pekeng Tawag</string>
+    <string name="prank">Lolokohin</string>
+    <string name="call_preview_screen">Pantalya ng Preview ng Tawag</string>
+    <string name="ads_will_display_here">Ang mga ad ay ipapakita dito.</string>
+    <string name="are_you_sure_you_want_to_exit">Sigurado ka bang nais mong lumabas?</string>
+    <string name="no">Hindi</string>
+    <string name="yes">Oo</string>
+    <string name="james_smith">James Smith</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">Tumawag ngayon gamit ang boses</string>
+    <string name="set_time">Itakda ang Oras</string>
+    <string name="select_theme">Pumili ng Tema</string>
+    <string name="home">Bahay</string>
+    <string name="setting">Mga Setting</string>
+    <string name="call_screens">Mga Screen ng Tawag</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacy &amp; Patakaran]]></string>
+    <string name="more_settings">Mga Karagdagang Setting</string>
+    <string name="rate_us">I-rate Kami</string>
+    <string name="more_apps">Mga Karagdagang Apps</string>
+    <string name="mute">Pahinto</string>
+    <string name="hold">Hintuan</string>
+    <string name="add_call">Magdagdag ng Tawag</string>
+    <string name="contacts">Mga Kontak</string>
+    <string name="note">Tandaan</string>
+    <string name="how_to_use">Paano Gamitin</string>
+    <string name="languages">Mga Wika</string>
+    <string name="start_fake_call">Magsimula ng Pekeng Tawag</string>
+    <string name="features">Mga Tampok</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">Isulat ang numero ng telepono, pangalan, at itakda ang larawan ng profile mula sa gallery.</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">Dito, may dalawang opsiyon: isa para sa pagtakda ng tagal ng tawag at ang pangalawa para sa pagpili ng tema.</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">Dito, kailangan mong pumili ng tagal ng tawag para sa biro.</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">I-klik lamang ang tema na nais mo sa screen ng tawag.</string>
+
+</resources>

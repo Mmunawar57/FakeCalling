@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Sahte video arama Arkadaşları Şaka Yap</string>
+
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="this_action_may_contain_ad">Bu eylem reklam içerebilir</string>
+    <string name="your_prankster_s_playground">Şakacılarınızın Oyun Sahnesi!</string>
+    <string name="customize_call_visuals_effortlessly">Aramaların görsellerini kolayca özelleştirin.</string>
+    <string name="add_names_numbers_and_profiles">İsimler, numaralar ve profiller ekleyin.</string>
+    <string name="set_call_durations_for_authenticity">Gerçeklik için arama sürelerini ayarlayın.</string>
+    <string name="prank_with_both_sound_and_sight">Ses ve görüntü ile şaka yapın.</string>
+    <string name="continue_btn">Devam</string>
+    <string name="fake_calling">Sahte Arama</string>
+    <string name="prank">Şaka</string>
+    <string name="call_preview_screen">Arama Önizleme Ekranı</string>
+    <string name="ads_will_display_here">Reklamlar burada görünecek.</string>
+    <string name="are_you_sure_you_want_to_exit">Çıkmak istediğinizden emin misiniz?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="james_smith">James Smith</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">Şimdi sesli arama yapın</string>
+    <string name="set_time">Zaman Ayarla</string>
+    <string name="select_theme">Tema Seç</string>
+    <string name="home">Ana Sayfa</string>
+    <string name="setting">Ayarlar</string>
+    <string name="call_screens">Arama Ekranları</string>
+    <string name="privacy_amp_policy"><![CDATA[Gizlilik ve Politika]]></string>
+    <string name="more_settings">Daha Fazla Ayar</string>
+    <string name="rate_us">Bize Puan Ver</string>
+    <string name="more_apps">Daha Fazla Uygulama</string>
+    <string name="mute">Sessiz</string>
+    <string name="hold">Beklet</string>
+    <string name="add_call">Arama Ekle</string>
+    <string name="contacts">Kişiler</string>
+    <string name="note">Not</string>
+    <string name="how_to_use">Nasıl Kullanılır</string>
+    <string name="languages">Diller</string>
+    <string name="start_fake_call">Sahte Aramayı Başlat</string>
+    <string name="features">Özellikler</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">Telefon numarasını, ismi yazın ve profil resmini galeriden ayarlayın.</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">İki seçenek var; biri arama süresini ayarlamak için, diğeri tema belirlemek için.</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">Burada şaka araması için zaman süresini seçmelisiniz.</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">Arama ekranında istediğiniz temayı seçmek için sadece tıklayın.</string>
+
+</resources>

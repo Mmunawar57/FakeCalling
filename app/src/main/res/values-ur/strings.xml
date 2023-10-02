@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">جعلی ویڈیو کال - دوستوں کو دہوکہ دینا</string>
+
+    <string name="hello_blank_fragment">ہیلو خالی فریگمنٹ</string>
+    <string name="this_action_may_contain_ad">یہ ایکشن میں اشتہار شامل ہوسکتا ہے</string>
+    <string name="your_prankster_s_playground">آپ کا دہوکہ دینے والوں کا میدان!</string>
+    <string name="customize_call_visuals_effortlessly">بغیر کسی مشقت کے کال کی دکھائی میں ترتیب دیں</string>
+    <string name="add_names_numbers_and_profiles">نام، نمبر اور پروفائلز شامل کریں</string>
+    <string name="set_call_durations_for_authenticity">معتبریت کے لئے کال کی مدتیں مختار کریں</string>
+    <string name="prank_with_both_sound_and_sight">آواز اور دیکھائی دونوں کے ساتھ دہوکہ دینا</string>
+    <string name="continue_btn">جاری رہیں</string>
+    <string name="fake_calling">جعلی کالنگ</string>
+    <string name="prank">دہوکہ</string>
+    <string name="call_preview_screen">کال پیش نظارہ اسکرین</string>
+    <string name="ads_will_display_here">اشتہارات یہاں دکھائی جائیں گی۔</string>
+    <string name="are_you_sure_you_want_to_exit">آپ واقعی بند کرنا چاہتے ہیں؟</string>
+    <string name="no">نہیں</string>
+    <string name="yes">ہاں</string>
+    <string name="james_smith">جیمز اسمتھ</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">اب آوازی کال کریں</string>
+    <string name="set_time">وقت مختار کریں</string>
+    <string name="select_theme">تھیم منتخب کریں</string>
+    <string name="home">ہوم</string>
+    <string name="setting">ترتیبات</string>
+    <string name="call_screens">کال اسکرینز</string>
+    <string name="privacy_amp_policy"><![CDATA[رازداری و پالیسی]]></string>
+    <string name="more_settings">مزید ترتیبات</string>
+    <string name="rate_us">ہمیں درجہ دیں</string>
+    <string name="more_apps">مزید ایپس</string>
+    <string name="mute">خاموش</string>
+    <string name="hold">انتظار</string>
+    <string name="add_call">کال شامل کریں</string>
+    <string name="contacts">رابطے</string>
+    <string name="note">نوٹ</string>
+    <string name="how_to_use">استعمال کے طریقے</string>
+    <string name="languages">زبانیں</string>
+    <string name="start_fake_call">جعلی کال شروع کریں</string>
+    <string name="features">خصوصیات</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">فون نمبر، نام لکھیں اور پروفائل تصویر گیلری سے منتخب کریں۔</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">یہاں، دو اختیارات ہیں، ایک کال کی دورانیہ تعین کرنے کے لئے اور دوسرا تھیم منتخب کرنے کے لئے۔</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">یہاں، آپ کو دہوکہ دینے والی کال کے لئے وقت کی مدت منتخب کرنی ہوگی۔</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">بس وہ تھیم پر کلک کریں جسے آپ کال اسکرین پر چاہتے ہیں۔</string>
+
+</resources>

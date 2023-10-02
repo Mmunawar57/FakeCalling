@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">फेक वीडियो कॉल प्रैंक दोस्तों</string>
+
+    <string name="hello_blank_fragment">नमस्ते खाली फ़्रेगमेंट</string>
+    <string name="this_action_may_contain_ad">इस क्रिया में विज्ञापन हो सकता है</string>
+    <string name="your_prankster_s_playground">आपका प्रैंकस्टर का खेलभूमि!</string>
+    <string name="customize_call_visuals_effortlessly">कॉल दृश्यों को आसानी से कस्टमाइज़ करें</string>
+    <string name="add_names_numbers_and_profiles">नाम, नंबर्स और प्रोफाइल जोड़ें</string>
+    <string name="set_call_durations_for_authenticity">मान्यता के लिए कॉल की अवधि सेट करें</string>
+    <string name="prank_with_both_sound_and_sight">ध्वनि और दृश्य दोनों के साथ प्रैंक करें</string>
+    <string name="continue_btn">जारी रखें</string>
+    <string name="fake_calling">फेक कॉल</string>
+    <string name="prank">प्रैंक</string>
+    <string name="call_preview_screen">कॉल पूर्वावलोकन स्क्रीन</string>
+    <string name="ads_will_display_here">यहां विज्ञापन दिखाए जाएंगे।</string>
+    <string name="are_you_sure_you_want_to_exit">क्या आप निश्चित हैं कि आप बाहर निकलना चाहते हैं?</string>
+    <string name="no">नहीं</string>
+    <string name="yes">हाँ</string>
+    <string name="james_smith">जेम्स स्मिथ</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">अब एक आवाज़ कॉल करें</string>
+    <string name="set_time">समय सेट करें</string>
+    <string name="select_theme">थीम चुनें</string>
+    <string name="home">होम</string>
+    <string name="setting">सेटिंग</string>
+    <string name="call_screens">कॉल स्क्रीन्स</string>
+    <string name="privacy_amp_policy">गोपनीयता और नीति</string>
+    <string name="more_settings">अधिक सेटिंग्स</string>
+    <string name="rate_us">हमें रेटिंग दें</string>
+    <string name="more_apps">और एप्स</string>
+    <string name="mute">म्यूट</string>
+    <string name="hold">होल्ड</string>
+    <string name="add_call">कॉल जोड़ें</string>
+    <string name="contacts">संपर्क</string>
+    <string name="note">नोट</string>
+    <string name="how_to_use">कैसे उपयोग करें</string>
+    <string name="languages">भाषाएँ</string>
+    <string name="start_fake_call">फेक कॉल शुरू करें</string>
+    <string name="features">विशेषताएं</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">फ़ोन नंबर, नाम लिखें और गैलरी से प्रोफाइल चित्र निर्धारित करें।</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">यहां, दो विकल्प हैं, पहला कॉल समय अवधि निर्धारित करने के लिए और दूसरा थीम सेट करने के लिए।</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">यहां, आपको प्रैंक कॉल के लिए समय अवधि चुननी होगी।</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">कॉल स्क्रीन पर जिस थीम को आप चाहते हैं, उसे बस क्लिक करें।</string>
+
+
+</resources>

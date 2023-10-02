@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Fake video call Prank friends</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_action_may_contain_ad">This action may contain ad</string>
+    <string name="your_prankster_s_playground">Your Prankster\'s Playground!</string>
+    <string name="customize_call_visuals_effortlessly">Customize call visuals effortlessly.</string>
+    <string name="add_names_numbers_and_profiles">Add names, numbers, and profiles.</string>
+    <string name="set_call_durations_for_authenticity">Set call durations for authenticity.</string>
+    <string name="prank_with_both_sound_and_sight">Prank with both sound and sight.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="fake_calling">Fake Calling</string>
+    <string name="prank">Prank</string>
+    <string name="call_preview_screen">Call Preview Screen</string>
+    <string name="ads_will_display_here">Ads will display here.</string>
+    <string name="are_you_sure_you_want_to_exit">Are you sure you want to exit?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="james_smith">James Smith</string>
+    <string name="_92xxxxxxxxxx">+92xxxxxxxxxx</string>
+    <string name="make_a_voice_call_now">Make a voice call now</string>
+    <string name="set_time">Set Time</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
+    <string name="call_screens">Call Screens</string>
+    <string name="privacy_amp_policy"><![CDATA[Privacy & Policy]]></string>
+    <string name="more_settings">More Settings</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="more_apps">More Apps</string>
+    <string name="mute">Mute</string>
+    <string name="hold">Hold</string>
+    <string name="add_call">Add call</string>
+    <string name="contacts">Contacts</string>
+    <string name="note">Note</string>
+    <string name="how_to_use">How to Use</string>
+    <string name="languages">Languages</string>
+    <string name="start_fake_call">Start Fake Call</string>
+    <string name="features">Features</string>
+    <string name="write_down_phone_number_name_and_set_profile_picture_from_the_gallery">Write down phone number,name and set profile picture from the gallery.</string>
+    <string name="here_two_options_here_one_to_set_call_time_duration_and_second_one_for_set_theme">Here, two options here,one to set call time duration and second one for set theme.</string>
+    <string name="here_you_would_have_to_select_time_duration_for_the_prank_call">Here, you would have to select time duration for the prank call.</string>
+    <string name="just_click_on_the_theme_that_you_want_on_call_screen">Just click on the theme that you want on call screen.</string>
+</resources>
